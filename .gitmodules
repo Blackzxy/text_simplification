@@ -1,0 +1,3 @@
+[submodule "easse"]
+	path = easse
+	url = https://github.com/feralvam/easse.git
